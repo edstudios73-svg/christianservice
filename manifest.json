@@ -1,0 +1,14 @@
+{
+  "name": "Christian Service Church, East Legon Accra",
+  "short_name": "CSC Church",
+  "description": "Christian Service Church (House of Testimonies), Jungle Avenue Road, East Legon, Accra. Sunday worship 9:00 AM.",
+  "start_url": "./index.html?source=installed-app",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "en-GH",
+  "background_color": "#091b3f",
+  "theme_color": "#091b3f",
+  "icons": [
+    { "src": "assets/CHURCH LOGO.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
